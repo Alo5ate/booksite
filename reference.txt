@@ -1,0 +1,4 @@
+image:
+    https://gyemantfelho.hu/mennyibe-kerul-egy-konyv-kiadasa/
+book place holder:
+https://libreture.com/library/sakina/book/development-in-progress/
